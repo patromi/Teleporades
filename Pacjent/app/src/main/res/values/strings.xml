@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Teleporades</string>
+    <string name="tab_text_1">Konto</string>
+    <string name="tab_text_2">Lekarze</string>
+    <string name="tab_text_3">Recepcje</string>
+
+    <string name="contact_hint_region">Słowo klucz</string>
+    <string name="login">Login</string>
+    <string name="has_o">Hasło</string>
+    <string name="zaloguj">Zaloguj</string>
+</resources>
